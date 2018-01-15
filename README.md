@@ -1,6 +1,7 @@
-# cs101
-Intro to Computer Science - Udacity
+# cs101 - Intro to Computer Science - Udacity
 
+## Building a Search Engine
 
+Unit 1 - Getting Started: Extracting a link
 
-Unit 2 - https://www.udacity.com/file?file_key=agpzfnVkYWNpdHl1ckcLEgZDb3Vyc2UiBWNzMTAxDAsSCUNvdXJzZVJldiIHZmViMjAxMgwLEgRVbml0GIH0AwwLEgxBdHRhY2hlZEZpbGUYwaYIDA
+Unit 2 - How to repeat: Finding all the links on a page
