@@ -7,7 +7,7 @@ def factorial(n):
     out = 1
     while n>=2:
         out = out*n
-	n = n-1
+        n = n-1
     return out
 
 
